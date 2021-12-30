@@ -1,0 +1,37 @@
+{
+    "Monday": {
+        "ingridients": ["Sause", "Cheese", "Pineapple"],
+        "name": "Pizza1",
+        "price" : 10
+    },
+    "Tuesday": {
+        "ingridients": ["Sause", "Cheese", "Tomato"],
+        "name": "Pizza2",
+        "price" : 11
+    },
+    "Wednesday": {
+        "ingridients": ["Sause", "Cucumber", "Pineapple"],
+        "name": "Pizza3",
+        "price" : 12
+    },
+    "Thursday": {
+        "ingridients": ["Sause", "Water", "Pineapple"],
+        "name": "Pizza4",
+        "price" : 13
+    },
+    "Friday": {
+        "ingridients": ["Sause", "Tomato", "Pineapple"],
+        "name": "Pizza5",
+        "price" : 14
+    },
+    "Saturday": {
+        "ingridients": ["Sause", "Melon", "Pineapple"],
+        "name": "Pizza6",
+        "price" : 15
+    },
+    "Sunday": {
+        "ingridients": ["Sause", "Jogurt", "Pineapple"],
+        "name": "Pizza7",
+        "price" : 16
+    }
+}    

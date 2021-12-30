@@ -1,0 +1,26 @@
+{
+    "Event_1": {
+        "date": "01.01.2022",
+        "price": 153,
+        "regular": 50,
+        "advance": 25,
+        "late": 38,
+        "student": 838
+    },
+    "Event_2": {
+        "date": "31.12.2021",
+        "price": 248,
+        "regular": 11,
+        "advance": 25,
+        "late": 28,
+        "student": 10
+    },
+    "Event_3": {
+        "date": "15.05.2022",
+        "price": 198,
+        "regular": 104,
+        "advance": 46,
+        "late": 1,
+        "student": 15
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name_event": "Event_1",
+        "date": "01.01.2022",
+        "type": "late",
+        "price": 153
+    },
+    "2": {
+        "name_event": "Event_2",
+        "date": "31.12.2021",
+        "type": "late",
+        "price": 248
+    },
+    "3": {
+        "name_event": "Event_3",
+        "date": "15.05.2022",
+        "type": "advance",
+        "price": 198
+    },
+    "4": {
+        "name_event": "Event_3",
+        "date": "15.05.2022",
+        "type": "regular",
+        "price": 198
+    }
+}
